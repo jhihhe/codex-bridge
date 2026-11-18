@@ -1,0 +1,50 @@
+{
+  "name": "codex-bridge",
+  "version": "1.0.0",
+  "description": "claude-gpt/codex-bridge — one-click OpenAI GPT API bridge for Claude Desktop & Claude Code",
+  "type": "module",
+  "bin": {
+    "codex-bridge": "./bin/codex-bridge.js"
+  },
+  "scripts": {
+    "setup": "node ./bin/codex-bridge.js setup",
+    "start": "node ./bin/codex-bridge.js start",
+    "stop": "node ./bin/codex-bridge.js stop",
+    "status": "node ./bin/codex-bridge.js status"
+  },
+  "keywords": [
+    "claude",
+    "openai",
+    "gpt",
+    "claude-desktop",
+    "claude-code",
+    "claude-adapter",
+    "gateway",
+    "bridge"
+  ],
+  "author": "Jhih he",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhihhe/codex-bridge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhihhe/codex-bridge/issues"
+  },
+  "homepage": "https://github.com/jhihhe/codex-bridge#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "claude-adapter": "2.2.1"
+  },
+  "files": [
+    "bin",
+    "src",
+    "templates",
+    "patches",
+    "install.sh",
+    "README.md",
+    "LICENSE"
+  ]
+}
