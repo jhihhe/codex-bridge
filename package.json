@@ -43,8 +43,10 @@
     "src",
     "templates",
     "patches",
+    "readme-assets",
     "install.sh",
     "README.md",
+    "README_EN.md",
     "LICENSE"
   ]
 }
