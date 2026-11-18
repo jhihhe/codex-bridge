@@ -66,7 +66,7 @@ flowchart LR
 ## 📸 Architecture
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhihhe/codex-bridge/main/readme-assets/architecture.svg?v=2" alt="Architecture: Claude to codex-bridge to OpenAI" width="100%">
+  <img src="https://raw.githubusercontent.com/jhihhe/codex-bridge/main/readme-assets/architecture.png" alt="Architecture: Claude to codex-bridge to OpenAI" width="100%">
 </p>
 
 ```text
