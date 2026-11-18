@@ -1,5 +1,5 @@
 <!-- readme-visuals:header:start -->
-<p align="center"><img src="https://raw.githubusercontent.com/jhihhe/codex-bridge/main/readme-assets/banner.svg" alt="codex-bridge — One-click OpenAI GPT API bridge for Claude Desktop and Claude Code" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/jhihhe/codex-bridge/main/readme-assets/banner.svg?v=2" alt="codex-bridge — One-click OpenAI GPT API bridge for Claude Desktop and Claude Code" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/jhihhe/codex-bridge/commits/main"><img src="https://img.shields.io/github/last-commit/jhihhe/codex-bridge?style=flat-square&amp;color=38bdf8" alt="Last commit"></a>
@@ -66,7 +66,7 @@ flowchart LR
 ## 📸 Architecture
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhihhe/codex-bridge/main/readme-assets/architecture.svg" alt="Architecture: Claude to codex-bridge to OpenAI" width="100%">
+  <img src="https://raw.githubusercontent.com/jhihhe/codex-bridge/main/readme-assets/architecture.svg?v=2" alt="Architecture: Claude to codex-bridge to OpenAI" width="100%">
 </p>
 
 ```text
